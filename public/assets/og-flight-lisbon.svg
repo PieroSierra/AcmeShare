@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#042759"/>
+  <circle cx="1012" cy="72" r="260" fill="#0770E3" opacity="0.55"/>
+  <circle cx="210" cy="550" r="280" fill="#00A698" opacity="0.38"/>
+  <rect x="78" y="72" width="1044" height="486" rx="54" fill="white"/>
+  <rect x="126" y="120" width="72" height="72" rx="24" fill="url(#brandGradient)"/>
+  <text x="222" y="168" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">AcmeTravel</text>
+  <text x="126" y="292" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" letter-spacing="-3">Vote on these Lisbon flights</text>
+  <text x="126" y="382" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">London → Lisbon</text>
+  <g transform="translate(126 438)">
+    <rect width="292" height="72" rx="36" fill="#E0F2FE"/>
+    <text x="36" y="48" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800">3 options from £148</text>
+  </g>
+  <path d="M846 425C896 384 948 325 1002 247" stroke="#0770E3" stroke-width="18" stroke-linecap="round"/>
+  <path d="M835 432L768 398L781 480L835 432Z" fill="#0770E3"/>
+  <defs>
+    <linearGradient id="brandGradient" x1="126" y1="120" x2="198" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0770E3"/>
+      <stop offset="1" stop-color="#00A698"/>
+    </linearGradient>
+  </defs>
+</svg>
