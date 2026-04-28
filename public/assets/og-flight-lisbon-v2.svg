@@ -1,25 +1,64 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="630" fill="#042759"/>
-  <circle cx="1040" cy="88" r="290" fill="#0770E3" opacity="0.52"/>
-  <circle cx="190" cy="580" r="270" fill="#00A698" opacity="0.36"/>
-  <rect x="78" y="72" width="1044" height="486" rx="54" fill="white"/>
-  <rect x="126" y="120" width="72" height="72" rx="24" fill="url(#brandGradient)"/>
-  <text x="222" y="168" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">AcmeTravel</text>
-  <text x="126" y="292" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900" letter-spacing="-3">Vote on these Lisbon flights</text>
-  <text x="126" y="382" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">London → Lisbon</text>
-  <g transform="translate(126 438)">
-    <rect width="292" height="72" rx="36" fill="#E0F2FE"/>
-    <text x="36" y="48" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800">3 options from £148</text>
+  <circle cx="1035" cy="86" r="300" fill="#0770E3" opacity="0.5"/>
+  <circle cx="170" cy="582" r="280" fill="#00A698" opacity="0.36"/>
+  <rect x="64" y="52" width="1072" height="526" rx="48" fill="#F8FAFC"/>
+
+  <rect x="104" y="88" width="52" height="52" rx="17" fill="url(#brandGradient)"/>
+  <text x="176" y="125" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800">AcmeTravel</text>
+  <text x="840" y="125" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">London → Lisbon</text>
+  <text x="104" y="184" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" letter-spacing="-1.7">Pick the flight that works best</text>
+  <text x="104" y="226" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Fri 16 May – Mon 19 May · 4 travellers · live group poll</text>
+
+  <g filter="url(#cardShadow)">
+    <rect x="104" y="264" width="304" height="252" rx="28" fill="white"/>
+    <rect x="128" y="288" width="106" height="36" rx="18" fill="#E0F2FE"/>
+    <text x="148" y="313" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Cheapest</text>
+    <text x="128" y="362" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">£148</text>
+    <text x="128" y="402" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">07:15 → 10:05</text>
+    <text x="128" y="432" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">18:40 → 21:25</text>
+    <rect x="128" y="456" width="160" height="13" rx="6.5" fill="#D9E2EC"/>
+    <rect x="128" y="456" width="80" height="13" rx="6.5" fill="#0770E3"/>
+    <text x="298" y="471" fill="#697586" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">2 votes</text>
+    <rect x="128" y="486" width="256" height="48" rx="24" fill="#0770E3"/>
+    <text x="230" y="517" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900">Vote</text>
   </g>
-  <g transform="translate(840 352)">
-    <circle cx="96" cy="84" r="86" fill="#EEF6FF"/>
-    <path d="M56 104L150 62L110 156L96 116L56 104Z" fill="#0770E3"/>
-    <path d="M110 156L96 116L74 138L110 156Z" fill="#00A698"/>
+
+  <g filter="url(#cardShadow)">
+    <rect x="448" y="244" width="304" height="272" rx="30" fill="white"/>
+    <rect x="472" y="268" width="125" height="36" rx="18" fill="#DCF8C6"/>
+    <text x="492" y="293" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Best times</text>
+    <text x="472" y="348" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900">£172</text>
+    <text x="472" y="391" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">10:30 → 13:20</text>
+    <text x="472" y="423" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">17:10 → 19:55</text>
+    <rect x="472" y="450" width="160" height="13" rx="6.5" fill="#D9E2EC"/>
+    <rect x="472" y="450" width="120" height="13" rx="6.5" fill="#00A698"/>
+    <text x="642" y="465" fill="#697586" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">3 votes</text>
+    <rect x="472" y="486" width="256" height="48" rx="24" fill="#00A698"/>
+    <text x="574" y="517" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900">Vote</text>
   </g>
+
+  <g filter="url(#cardShadow)">
+    <rect x="792" y="264" width="304" height="252" rx="28" fill="white"/>
+    <rect x="816" y="288" width="141" height="36" rx="18" fill="#FEF3C7"/>
+    <text x="836" y="313" fill="#042759" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Most flexible</text>
+    <text x="816" y="362" fill="#0B1F3A" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">£189</text>
+    <text x="816" y="402" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">14:05 → 16:55</text>
+    <text x="816" y="432" fill="#526173" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">20:30 → 23:15</text>
+    <rect x="816" y="456" width="160" height="13" rx="6.5" fill="#D9E2EC"/>
+    <rect x="816" y="456" width="40" height="13" rx="6.5" fill="#FFB700"/>
+    <text x="986" y="471" fill="#697586" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">1 vote</text>
+    <rect x="816" y="486" width="256" height="48" rx="24" fill="#0770E3"/>
+    <text x="918" y="517" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900">Vote</text>
+  </g>
+
   <defs>
-    <linearGradient id="brandGradient" x1="126" y1="120" x2="198" y2="192" gradientUnits="userSpaceOnUse">
+    <linearGradient id="brandGradient" x1="104" y1="88" x2="156" y2="140" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0770E3"/>
       <stop offset="1" stop-color="#00A698"/>
     </linearGradient>
+    <filter id="cardShadow" x="80" y="220" width="1040" height="340" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
   </defs>
 </svg>
